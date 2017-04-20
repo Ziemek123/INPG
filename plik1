@@ -4,7 +4,7 @@
 #include <conio.h>
 //nalezy utworzyc plik
 using namespace std; //wykozystanie nazw bibliotecznych bez potrzeby ich oddzielnych deklaracji
-class OsobaCL
+class OsobaCL //clasa wypelniona funkcjami
 {
 protected:
     string m_imie;
