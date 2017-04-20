@@ -3,7 +3,7 @@
 #include <string>
 #include <conio.h>
 //nalezy utworzyc plik
-using namespace std;
+using namespace std; //wykozystanie nazw bibliotecznych bez potrzeby ich oddzielnych deklaracji
 class OsobaCL
 {
 protected:
