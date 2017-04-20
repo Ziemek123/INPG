@@ -1,10 +1,10 @@
-#include <iostream>
+#include <iostream>//makefile
 #include <iomanip>
 #include <string>
 #include <conio.h>
 
-using namespace std;
-class OsobaCL
+using namespace std; //destroy
+class OsobaCL //fly
 {
 protected:
     string m_imie;
