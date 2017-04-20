@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <string>
 #include <conio.h>
-
+//nalezy utworzyc plik
 using namespace std;
 class OsobaCL
 {
